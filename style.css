@@ -18,7 +18,7 @@ h1 {
     font-size:20px;
     font-weight: lighter;
 
-}
+}   
 
 .result {
     font-size : 24px;
@@ -50,7 +50,8 @@ h1 {
     border:none;
     width:200px;
     height:40px;
-    color:rgba(0,0,0,0.0);
+    background:rgba(0,0,0,0.0);
+    color:white;
     padding-left:10px;
 }
 
